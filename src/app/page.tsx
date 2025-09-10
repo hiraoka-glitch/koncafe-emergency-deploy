@@ -72,7 +72,7 @@ export default function Home() {
         fontSize: "0.8rem",
         opacity: 0.7
       }}>
-        秋葉原コンカツカフェ即入マッチングサービス
+        秋葉原コンセプトカフェ即入マッチングサービス
       </div>
     </div>
   )

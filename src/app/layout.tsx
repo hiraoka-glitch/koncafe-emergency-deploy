@@ -2,7 +2,7 @@ import { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: "🎉 コンカフェなう - デプロイ成功！",
-  description: "秋葉原コンカツカフェ即入マッチングサービス",
+  description: "秋葉原コンセプトカフェ即入マッチングサービス",
 }
 
 export default function RootLayout({
